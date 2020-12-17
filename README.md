@@ -1,2 +1,5 @@
 # hello-world
-This is my first repository on GitHub
+
+This is Sonu and the update is made via the pther branch
+Thanks
+Sonu
